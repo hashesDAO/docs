@@ -1,2 +1,3 @@
-# docs
+# Welcome
+
 Hashes DAO Documentation
