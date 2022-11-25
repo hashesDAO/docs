@@ -1,0 +1,2 @@
+# docs
+Hashes DAO Documentation
