@@ -1,6 +1,7 @@
 ---
 order: 10
+icon: trophy
 ---
 
-# The Harvest
+# 1. The Harvest
 

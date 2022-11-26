@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: # Add your website address here
+favicon: images/hashes.png
 branding:
   title: Hashes DAO Documentation
 links:

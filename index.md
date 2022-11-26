@@ -1,2 +1,8 @@
+---
+icon: hash
+---
+
 # Hashes DAO
+
+
 
