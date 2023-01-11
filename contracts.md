@@ -20,6 +20,7 @@ A List of contract addresses and Etherscan links
 - Payment Splitter Cloneable Predicate: [0x719d437a3525012d6fdafc9db3159cec57adba37](https://etherscan.io/address/0x719d437a3525012d6fdafc9db3159cec57adba37)
 - Multi-Stage Allowlist Cloneable Predicate: [0xE53c5FcE669d16F61204C1ae0DBD699085d07CC9](https://etherscan.io/address/0xE53c5FcE669d16F61204C1ae0DBD699085d07CC9)
 - Sigils Management Predicate: [0x3D23FdC55e58DeD0C7A46681B42CAEA4d742Bf70](https://etherscan.io/address/0x3D23FdC55e58DeD0C7A46681B42CAEA4d742Bf70)
+- TrashBin: [0xf43a8DD18Bf488825caE7E8B5A8693e3423fE4f5](https://etherscan.io/address/0xf43a8dd18bf488825cae7e8b5a8693e3423fe4f5)
 
 ### Goerli Testnet
 
@@ -33,6 +34,7 @@ A List of contract addresses and Etherscan links
 - Static Mint Fee Cloneable Predicate: [0x0A37b0350d8504e248346F7c04A1f6CF6C294966](https://goerli.etherscan.io/address/0x0A37b0350d8504e248346F7c04A1f6CF6C294966)
 - Payment Splitter Cloneable Predicate: [0x00936b3253E19ccB215a8044cd8C727048cEcdFb](https://goerli.etherscan.io/address/0x00936b3253E19ccB215a8044cd8C727048cEcdFb)
 - Multi-Stage Allowlist Cloneable Predicate: [0x645921B8ed0bc3B7C0bbE56E95A52eC54ba3B158](https://goerli.etherscan.io/address/0x645921B8ed0bc3B7C0bbE56E95A52eC54ba3B158)
+- TrashBin: [0xF27F5599d5fE312730FA5581533573f1FC1bcF5b](https://goerli.etherscan.io/address/0xf27f5599d5fe312730fa5581533573f1fc1bcf5b#code)
 
 ### Sepolia Testnet
 
