@@ -23,7 +23,7 @@ The art is currently stored in a [multi-sig](https://etherscan.io/address/0x086E
 
 ### 2. Medleys
 
-##### Sponsor: Kintsugi (Hash Hodler)
+##### Sponsor: [Kintsugi](https://twitter.com/KintsugiNFTs) (Hash Hodler)
 
 The second permutation funded the development of a generative art marketplace that expanded the utility of Hashes NFTs. This permissionless [marketplace](https://thehashes.xyz/medleys) is open for both artists and collectors to mint using a Hashes NFT, making it both accessible to a wide range of users whole also pushing value to the Hashes DAO. In this way, users can collect unique generative art created with the Hashes NFTs or in collaboration with the Hashes DAO, and have early access to future drops by OG generative artists, all while shaping the future of generative art.
 
@@ -33,10 +33,15 @@ In addition to building the marketplace, the Medleys permutation was also initia
 
 ### 3. The Sigils
 
-##### Sponsor: Deebee
+##### Sponsor: [Deebee](https://twitter.com/deebee) (thedavidb)
 
-Things to cover - the sigils collection, management contract, API for dynamic NFTs
-//image
+Permutation three introduced the first dynamic and reputation-based NFTs into the Hashes ecosystem, as well as extending the DAO's infrastructure with the Sigil APIs and the Sigil management contract. Beginning with the [Sigil Genesis NFTs](https://www.thesigil.xyz/), which are a collection of dynamic NFTs that change in appearance according to an owner's on-chain activity and contributions to the DAO. Activities such as buying, selling, or moving Hashes NFTs, as well as proposing or voting in DAO governance, will all modify the metadata of an owner's Sigil Genesis. In this way, a Sigil Genesis NFT can act as a source of reputation within the Hashes DAO. These Sigil Genesis NFTs are available to [mint](https://thehashes.xyz/collections/nft/0x013b326320fde7af53b95F498A26e33Eb7a5391c) using a Hashes NFT.
+
+Behind the scenes of the Sigil Genesis collection are the Sigil API endpoints and the Sigil Management contract. It is the Sigil [API endpoints](https://www.api.thesigil.xyz/) that are used to retreive data concerning the relevant on-chain activities of Sigil Genesis owners. This API is available for use by developers and artists looking for insight or inspiration into the Hashes ecosystem. Finally, the Sigil Management contract introduces a novel eligibility criteria for the set of all Sigil NFTs. The Sigil Genesis collection is so named because it is the first of several Sigil collections managed by the Sigil Management contract. This management contract ensures that a standard Hashes NFT can only be used to mint a single Sigil NFT (whether this be from the Genesis collection or otherwise), whereas a DAO Hashes NFT can be used to mint an NFT from each Sigil collection.
+
+Artists interested in exploring these unique features are strongly encouraged to do so, and to reach out for more information on [Discord](https://discord.com/channels/895057713279676427/895391609586323457).
+
+![Sigil Genesis #0](./images/sigilgenesis.png)
 
 ### 4. The TrashBin
 
