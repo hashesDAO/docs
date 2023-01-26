@@ -57,6 +57,12 @@ The JPEG Trash Bin allows anyone to sell their illiquid NFTs on Ethereum to a sm
 
 ##### Sponsor: [SydneyJason](https://twitter.com/hall_jason)
 
+When permutation five was proposed several prior permutations had already been initiated and voted for by the community. Development work was, however, at a stand-still, with no technical contributors stepping up to build the proposed projects due to the absence of a compensation mechanism. Dex Labs, the original technical sponsor of the HashesDAO (and holder of 100 HashesDAO NFTs) was also understaffed and unable to build out these permutations. And so, in order to address this issue, the HashesDAO proposed a development framework to complete the backlog of defined development projects as well as to guide future development efforts for upcoming permutations. 
+
+Approximately 50 ETH was allocated to incentivise developers and builders who could finish the permuations that had already been initiated, as well as to further develop the Hashes DAO website and resources. The permutation was highly successful, with core proposals of both permuation three and four being completed as a result. Furthermore, permutation five also funded the development of the Hashes DAO NFT [create-flow](https://thehashes.xyz/collections/new), along with the DAO documentation you're reading right now! 
+
+Further detail regarding permutation five can be found [here](https://medium.com/@sydneyjason/permutation-5-the-build-e6f420102d09).
+
 ### 6. Photography Grants
 
 ##### Sponsor: [Quimp](https://twitter.com/bquimper)
