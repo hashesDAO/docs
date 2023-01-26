@@ -45,14 +45,18 @@ Artists interested in exploring these unique features are strongly encouraged to
 
 ### 4. The TrashBin
 
+##### Sponsor: [Θr](https://twitter.com/trad0r)
 
+In permutation four the Hashes DAO tackled a fundamental issue with NFTs by building the [JPEG Trash Bin](https://www.jpegtrashbin.xyz/). This core issue being that NFTs tend to be highly illiquid, with most having the unenviable position of possessing no active bids whatsoever. This poses a real problem for traders and investors looking to tax loss harvest at the end of the financial year, only to find that there are no counter-parties for their trades. The JPEG Trash Bin resolves this problem of terminal illiquidity by placing a permanent and implicit bid on every NFT on Ethereum.  
 
-##### Sponsor: Θr
+The JPEG Trash Bin allows anyone to sell their illiquid NFTs on Ethereum to a smart contract in exchange for a small amount of ETH. Furthermore, this dApp also provides users with a marketplace where collectors can “dumpster dive” for NFT gems that others have previously trashed. Discounts on these re-purchases are available for standard (25% discount) and DAO (75% discount) Hash holders respectively. After an NFT is sold to the JPEG Trash Bin, it will be held for 20,000 blocks (roughly 3 days) to see if the DAO wishes to purchase it. After that holding period it will be open and available for anyone to purchase. Profits from the JPEG Trash Bin are divided between the builders and the Hashes DAO as an incentive alignment mechanism to promote further development and promotion.
+
+![JPEG Trash Bin](./images/trashBin.png)
 
 ### 5. Developer Grants
 
-##### Sponsor: SydneyJason
+##### Sponsor: [SydneyJason](https://twitter.com/hall_jason)
 
 ### 6. Photography Grants
 
-##### Sponsor: Quimp
+##### Sponsor: [Quimp](https://twitter.com/bquimper)
