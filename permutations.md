@@ -63,6 +63,16 @@ Approximately 50 ETH was allocated to incentivise developers and builders who co
 
 Further detail regarding permutation five can be found [here](https://medium.com/@sydneyjason/permutation-5-the-build-e6f420102d09).
 
-### 6. Photography Grants
+### 6. Photography Grant
 
 ##### Sponsor: [Quimp](https://twitter.com/bquimper)
+
+For Permutation six, which is ongoing at the time of writing, 15 ETH has been allocated for artist [Carlo Van de Roer](http://www.vanderoer.com/new-page-1) to create generative photographic works using his patented PlateLight technology. Van de Roer is an artist who specializes in photography and film-making, and has already created works such as [The Portrait Machine Project](https://opensea.io/collection/tpmp), and [Modular One](https://opensea.io/collection/carlo-van-de-roer-modulator-one), among several others. Furthermore, this unique artistic approach has been employed in the Marvel movies "Thor: Ragnarok" and "Thor: Love and Thunder." 
+
+The proposed project involves using Hashes NFTs to allow collectors to generate and collect unique photographic images, and will include a website for minting the images and connecting them to smart contracts. The resulting body of work will consist of 50-100 unique 1/1's and will be available to purchase at an approximate price of 1.5 ETH. Several pieces will also be allocated to the DAO's harvest treasury, along with others raffled to DAO hashes holders.
+
+### 7. ???
+
+##### Sponsor: You
+
+You can decide what the Hashes DAO does next by proposing a permutation. 

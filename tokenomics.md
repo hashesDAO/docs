@@ -7,7 +7,7 @@ icon: beaker
 
 At the heart of the Hashes DAO is the Hashes NFT, which conforms to the ERC721 NFT standard and has several simulatenous roles and functions within the organisation.
 
-To begin with, the Hashes DAO utilizes a unique mechanism for minting its NFTs. Each NFT has an associated hash (hence the name!) and is minted using a specific phrase or message that is provided when minting. In practive this means that the hash associated with each NFT is deterministically generated when minting occurs. Specifically, users can mint a Hashes NFT by providing a phrase of their choice that is then hashed along with a monotonically increasing nonce (tokenId) and the minter's Ethereum address using the Keccak-256 hash function. This results in generating a unique 32-byte hash value for the token.
+To begin with, the Hashes DAO utilizes a unique mechanism for minting its NFTs. Each NFT has an associated hash (hence the name!) and is minted using a specific phrase or message that is provided when minting. In practice this means that the hash associated with each NFT is deterministically generated when minting occurs. Specifically, users can mint a Hashes NFT by providing a phrase of their choice that is then hashed along with a monotonically increasing nonce (tokenId) and the minter's Ethereum address using the Keccak-256 hash function. This results in generating a unique 32-byte hash value for the token.
 
 ### Types and Functions
 
