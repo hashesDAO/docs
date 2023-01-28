@@ -1,9 +1,9 @@
 ---
-order: 7
+order: 6
 icon: book
 ---
 
-# Long-form Articles
+# Long-Form Articles
 
 Articles written by DAO members that further explicate key features, functions, and resources of the DAO.
 

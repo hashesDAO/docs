@@ -5,6 +5,11 @@ icon: question
 
 # Fequently Asked Questions
 
+
+To add - more explanation of hashes collections, create flow stuff, launching a predicate contract
+
+
+
 ### What is the Hashes?
 The Hashes is an NFT-focused decentralized autonomous organization (DAO) that aims to push the boundaries of generative art and NFT infrastructure.
 
@@ -15,7 +20,7 @@ The Hashes NFT collection is divided into three categories: DAO Hashes, Standard
 Holders of DAO Hashes have the right to propose and vote on permutations, shared ownership rights over the DAO's assets, and exclusive access to community discord servers. There are a maximum of 1000 DAO hashes that will ever exist.
 
 ### How can I obtain a Standard Hash?
-Standard Hashes are currently free to mint on Ethereum mainnet and can be used to mint hash collections or to receive discounts on purchases from the JPEG Trash Bin.
+Standard Hashes are currently free to [mint](https://thehashes.xyz/) on Ethereum mainnet and can be used to mint hash collections or to receive discounts on purchases from the JPEG Trash Bin.
 
 ### Can a deactivated Hashes NFT be reactivated to a DAO NFT?
 Yes! Deactivated DAO Hashes can be reactivated by holders who re-commit one Ether back to the DAO. This is achieved via an on-chain transaction to the "activateTokens" function on the [Hashes NFT contract](https://etherscan.io/address/0xd07e72b00431af84ad438ca995fd9a7f0207542d#code).
@@ -33,4 +38,4 @@ Permutations in the Hashes DAO are discrete and directed initiatives that the co
 A sponsor, typically the initial proposer, is elected during the proposal process to ensure the successful operation and fulfillment of the permutation. The sponsor acts as the project manager for the permutation and is empowered to make permutation-specific executive decisions on behalf of the DAO.
 
 ### Who should get involved with the Hashes?
-Anyone! If you're passionate about NFTs and generative art, we encourage you to get involved with the Hashes and help us shape the future of this exciting field.
+Anyone! If you're passionate about NFTs and generative art, we encourage you to contribute to the Hashes in any way that you can to help us shape the future of this exciting field.
