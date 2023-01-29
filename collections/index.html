@@ -3,39 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.728200258113">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.728276975662">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
 
     <!-- Primary Meta Tags -->
-    <title>Collection Factory</title>
-    <meta name="title" content="Collection Factory">
-    <meta name="description" content="an overview of the hashes collections," />
+    <title>Hashes Collections</title>
+    <meta name="title" content="Hashes Collections">
+    <meta name="description" content="One drawback of the Permutation model of DAO governance and operations is the risk of siloed work environments, along with a proliferation of..." />
 
     <!-- Canonical -->
-    <link rel="canonical" href="/factory/" />
+    <link rel="canonical" href="/collections/" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="/factory/">
-    <meta property="og:title" content="Collection Factory">
-    <meta property="og:description" content="an overview of the hashes collections,">
+    <meta property="og:url" content="/collections/">
+    <meta property="og:title" content="Hashes Collections">
+    <meta property="og:description" content="One drawback of the Permutation model of DAO governance and operations is the risk of siloed work environments, along with a proliferation of...">
+    <meta property="og:image" content="/images/hashescollections.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="/factory/">
-    <meta property="twitter:title" content="Collection Factory">
-    <meta property="twitter:description" content="an overview of the hashes collections,">
+    <meta property="twitter:url" content="/collections/">
+    <meta property="twitter:title" content="Hashes Collections">
+    <meta property="twitter:description" content="One drawback of the Permutation model of DAO governance and operations is the risk of siloed work environments, along with a proliferation of...">
+    <meta property="twitter:image" content="/images/hashescollections.png">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../images/hashes.png" rel="icon" />
-    <link href="../resources/css/retype.css?v=2.4.0.728200258113" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=2.4.0.728276975662" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=2.4.0.728200258113" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=2.4.0.728276975662" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.4.0.728200258113" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.4.0.728276975662" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -179,20 +181,65 @@
                                 <div id="docs-sidebar-right-toggle"></div>
                 
                                 <!-- Page content  -->
-<doc-anchor-target id="collection-factory" class="break-words">
+<doc-anchor-target id="hashes-collections" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#collection-factory">#</doc-anchor-trigger>
-        <span>Collection Factory</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#hashes-collections">#</doc-anchor-trigger>
+        <span>Hashes Collections</span>
     </h1>
 </doc-anchor-target>
-<ul>
-<li>an overview of the hashes collections,</li>
-<li>some technical details, ecosystems and implementations</li>
-<li>basic guides for building a predicate, with pictures perhaps</li>
-<li>the power of composability, brief</li>
-<li>create flow stuff</li>
-<li>images of collections</li>
-</ul>
+<p>One drawback of the Permutation model of DAO governance and operations is the risk of siloed work environments, along with a proliferation of isolated projects that lack consistency and a sense of higher-level cohesion. In order to resolve this, the Hashes DAO has built a flexible and composable NFT <a href="https://etherscan.io/address/0x86cf8621b3ee3eb77d7effe9dc677d1cd39e9ce5">factory</a>. This factory acts as both a registry for Hashes NFT collections, while also helping to lower the technical barriers to entry for anyone interested in creating an NFT collection on Ethereum.</p>
+<doc-anchor-target id="collection-factory">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#collection-factory">#</doc-anchor-trigger>
+        <span>Collection Factory</span>
+    </h3>
+</doc-anchor-target>
+<p>At a high level, the collection factory allows anyone to create an ERC721 NFT collection, known as a Hashes collection, which is automatically integrated into the Hashes DAO ecosystem and website. Artists and creators have a wide range of flexibility concerning the supply, mint fee, royalty, mint eligibility, allow listing, revenue sharing, and source of metadata for their collection. Moreover, both on and off-chain art is supported, and there is an infinite potential for novel NFT dynamics, such as soulbound tokens or harbinger taxes, to be easily integrated in the future. Users can mint NFTs from Hashes collections using their Hashes NFT, and creators can easily introduce interesting mechanisms into this process, such as allowing only DAO holders access to mint, or creating an exponential minting price that increases or decreases relative to the number of NFTs that have been minted, etc.</p>
+<p>At a technical level, this high degree of flexibility and composability is derived from the <code v-pre>ecosystem</code>, <code v-pre>implementation</code>, and <code v-pre>predicate/s</code> design paradigm that the Hashes DAO has employed. While a full treatment of how the underlying smart contracts operate will not be provided presently, those interested in a more thorough analysis are strongly encouraged to consult the two phenomenal articles (<a href="https://medium.com/dex-labs/introducing-hashes-collections-ab50adb5f1a9">part one</a> and <a href="https://medium.com/dex-labs/hashes-collections-technical-deep-dive-637e616c1e1a">part two</a>) written by Adam Levine.</p>
+<p><figure class="content-center">
+    <img src="../images/hashescollections.png" alt="Hashes Collections" />
+    <figcaption class="caption">Hashes Collections</figcaption>
+</figure>
+</p>
+<doc-anchor-target id="user-interface">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#user-interface">#</doc-anchor-trigger>
+        <span>User Interface</span>
+    </h3>
+</doc-anchor-target>
+<p>For non-technical artists and creators, a simple and intuitive <a href="https://thehashes.xyz/collections/new">user interface</a> has been built (as a part of Permutation five) that allows anyone to easily create a Hashes collection without having to write any code. This significantly lowers the barriers to entry for artists and NFT enthusiasts who want the ability to generate safe and reliable NFT collections. Furthermore, all Hashes collections are automatically allocated a unique minting page on the Hashes website, further streamlining the process for creators and collectors. For more detailed guidance on using this user interface, please refer to this highly informative <a href="https://paragraph.xyz/@mathesondavid/hashesdao-permutation-five">article</a> by David Matheson.</p>
+<doc-anchor-target id="hashes-art">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#hashes-art">#</doc-anchor-trigger>
+        <span>Hashes Art</span>
+    </h3>
+</doc-anchor-target>
+<p>A small collection of Hashes collections art created using the collection factory and user interface.</p>
+<p><figure class="content-center">
+    <img src="../images/europa.png" alt="Europa: Conamara Chaos" />
+    <figcaption class="caption">Europa: Conamara Chaos</figcaption>
+</figure>
+</p>
+<p><figure class="content-center">
+    <img src="../images/first_contact_preview.png" alt="Europa: First Contact" />
+    <figcaption class="caption">Europa: First Contact</figcaption>
+</figure>
+</p>
+<p><figure class="content-center">
+    <img src="../images/sigils48.png" alt="Sigil Genesis: Chapter One - #48" />
+    <figcaption class="caption">Sigil Genesis: Chapter One - #48</figcaption>
+</figure>
+</p>
+<p><figure class="content-center">
+    <img src="../images/hashfrog0nibbler.png" alt="Hash Frogs #0 - Nibbler" />
+    <figcaption class="caption">Hash Frogs #0 - Nibbler</figcaption>
+</figure>
+</p>
+<p><figure class="content-center">
+    <img src="../images/chomsky0.png" alt="Colourless Purple Concepts Listen Carefully" />
+    <figcaption class="caption">Colourless Purple Concepts Listen Carefully</figcaption>
+</figure>
+</p>
 
                                 
                                 <!-- Required only on API pages -->
@@ -259,6 +306,6 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "Collection Factory", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "Hashes Collections", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
 </body>
 </html>
