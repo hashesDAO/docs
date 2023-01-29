@@ -5,7 +5,7 @@ icon: people
 
 # Governance
 
-The Hashes DAO is a decentralized autonomous organization (DAO) governed by the global community of Hashes DAO NFT holders. The DAO has employed a paradigm of iterating through focused projects called "Permutations" to successively realise its vision. At a high level, the governance process for initiating a Permutation entails three phases: discussion, votes, and execution.
+The Hashes DAO is a decentralized autonomous organization (DAO) governed by the global community of Hashes DAO NFT holders. The DAO has employed a paradigm of iterating through focused projects called "Permutations" to successively realise its vision. At a high level, the governance process for starting a Permutation entails three phases: discussion, votes, and execution.
 
 ### Discussion
 
@@ -30,4 +30,4 @@ Finally, after a successful on-chain vote has occured, two additional transactio
 
 ### Execution
 
-After the on-chain governance process has been completed the Permutation begins in earnest, with DAO members beginning to work on the newly funded project. Leading the Permutation is the Sponsor, who has executive control over the day-to-day operations of the Permutation. More detail regarding current and former permutations can be found in the Permutations section. Finally, a more thorough treatment of the Permutation governance process is discussed at length in this excellent [article](https://medium.com/@sydneyjason/how-to-run-a-hashes-dao-permutation-2ecdb6def2a9) by Sydney Jason. 
+After the on-chain governance process has been completed the Permutation begins in earnest, with DAO members beginning to work on the newly funded project. Leading the Permutation is the Sponsor, who has executive control over the day-to-day operations of the Permutation. More detail regarding current and former permutations can be found in the Permutations section. Finally, a more thorough treatment of the Permutation governance process is discussed at length in this excellent [article](https://medium.com/@sydneyjason/how-to-run-a-hashes-dao-permutation-2ecdb6def2a9) by Sydney Jason.

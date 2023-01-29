@@ -6,7 +6,7 @@ icon: question
 # Fequently Asked Questions
 
 
-To add - more explanation of hashes collections, create flow stuff, launching a predicate contract
+To add - more explanation of hashes collections, create flow stuff, launching a predicate contract, goverance
 
 
 
