@@ -18,10 +18,10 @@ Holders of DAO Hashes have the right to propose and vote on permutations, shared
 DAO Hashes can be bought on secondary marketplaces such as [Opensea](https://opensea.io/collection/hashes?search[sortAscending]=true&search[sortBy]=UNIT_PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=DAO) or [SudoSwap](https://sudoswap.xyz/#/browse/buy/0xD07e72b00431af84AD438CA995Fd9a7F0207542d).
 
 ### How can I obtain a Standard Hash?
-Standard Hashes are currently free to [mint](https://thehashes.xyz/) on Ethereum mainnet, and can be used to mint hash collections or to receive discounts on purchases from the JPEG Trash Bin.
+Standard Hashes are currently free to [mint](https://thehashes.xyz/) on Ethereum mainnet, and can be used to mint Hashes collections or to receive discounts on purchases from the JPEG Trash Bin.
 
 ### Can a deactivated NFT be reactivated to a DAO NFT?
-Yes! Deactivated DAO Hashes can be reactivated by holders who re-commit one Ether back to the DAO. This is achieved via an on-chain transaction to the "activateTokens" function on the [Hashes NFT contract](https://etherscan.io/address/0xd07e72b00431af84ad438ca995fd9a7f0207542d#code).
+Yes! Deactivated DAO Hashes can be reactivated by holders who re-commit one Ether back to the DAO. This is achieved via an on-chain transaction to the `activateTokens` function on the [Hashes NFT contract](https://etherscan.io/address/0xd07e72b00431af84ad438ca995fd9a7f0207542d#code).
 
 ### How much was raised at the genesis of the DAO?
 900 Ether.
@@ -36,16 +36,16 @@ Permutations in the Hashes DAO are discrete and directed initiatives that the co
 Any member of the Hashes DAO can propose a Permutation to the community in the [Hashes Discord](https://discord.com/channels/895057713279676427/895391609586323457).
 
 ### Who is the sponsor in a Permutation?
-A sponsor, typically the initial proposer, is elected during the proposal process to ensure the successful operation and fulfillment of the Permutation. The sponsor acts as the project manager for the Permutation and is empowered to make Permutation-specific executive decisions on behalf of the DAO.
+A sponsor, typically the initial proposer, is elected during the proposal process to ensure the successful operation and fulfillment of the Permutation. The Sponsor acts as the project manager for the Permutation and is empowered to make Permutation-specific executive decisions on behalf of the DAO.
 
 ### What is the Snapshot vote and what does it do?
-The Snapshot vote is a non-binding vote that acts to gauge the overal community sentiment and support for a Permutation. It is important to note that the results of the Snapshot vote are non-binding.
+The Snapshot vote is a non-binding vote that acts to gauge the overal community sentiment and support for a Permutation.
 
 ### If a Snapshot vote is non-binding why do it at all?
 A Snapshot vote is a means of gauging community support for a Permutation, and prevents unnecessary on-chain governance proposals that will be highly likely to fail. It is important to note that a succesful Snapshot vote does not imply that the subsequent on-chain governance vote will be simialrly successful; however, an unsuccessful Snapshot vote strongly implies that the on-chain governance vote will fail.
 
-### What is the on-chain governance proposal and what does it do?
-An on-chain governance proposal is the formal process that allows Hashes DAO NFT holders to vote on proposed actions or changes to the Hashes DAO smart contract. Accessing the DAO's treasury assets to fund a Permutation requires an on-chain governance proposal.
+### What is an on-chain governance proposal and what does it do?
+An on-chain governance proposal is the formal process that allows Hashes DAO NFT holders to vote on proposed actions or changes to the Hashes DAO smart contract. As an example, accessing the DAO's treasury assets to fund a Permutation requires an on-chain governance proposal.
 
 ### How many DAO NFTs are needed to make an on-chain governance proposal?
 10 DAO NFTs.
@@ -66,7 +66,7 @@ A Collection Factory is set of smart contracts that allows anyone to create a un
 Hashes collections provide artists with a wide range of freedom concerning the supply, mint fee, royalty, mint eligibility, allow listing, revenue sharing, and source of metadata for their collections. Hashes collections have been built with composability and extensibility in mind, allowing creators to realise their artistic vision. 
 
 ### I'm not a developer, can I still use the Collection Factory?
-Yes! A simple and intuitive user interface has been built that allows anyone to easily create a Hashes collection without having to write any code. This tool can be found [here](https://thehashes.xyz/collections/new).
+Yes! A simple and intuitive [user interface](https://thehashes.xyz/collections/new) has been built that allows anyone to easily create a Hashes collection without having to write any code.
 
 ### Who should get involved with the Hashes?
-Anyone! If you're passionate about NFTs and generative art, we encourage you to contribute to the Hashes in any way that you can to help us shape the future of this exciting field.
+Anyone! If you're passionate about NFTs and generative art, we strongly encourage you to contribute to the Hashes in any way that you can.

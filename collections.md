@@ -21,7 +21,7 @@ For non-technical artists and creators, a simple and intuitive [user interface](
 
 ### Hashes Art
 
-A small assortment of Hashes collections art created using the collection factory and user interface.
+Here is small assortment of Hashes collections created using the collection factory and user interface.
 
 ![Europa: Conamara Chaos](./images/europa.png)
 
