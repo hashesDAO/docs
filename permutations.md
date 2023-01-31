@@ -49,6 +49,8 @@ In Permutation four the Hashes DAO tackled a fundamental issue with NFTs by buil
 
 The JPEG Trash Bin allows anyone to sell their illiquid NFTs on Ethereum to a [smart contract](https://etherscan.io/address/0xf43a8dd18bf488825cae7e8b5a8693e3423fe4f5) in exchange for a small amount of ETH. Furthermore, this dApp also provides users with a marketplace where collectors can “dumpster dive” for NFT gems that others have previously trashed. Discounts on these re-purchases are available for Standard (25% discount) and DAO (75% discount) holders respectively. After an NFT is sold to the JPEG Trash Bin, it will be held for 20,000 blocks (roughly 3 days) to see if the DAO wishes to purchase it. After that holding period it will be open and available for anyone to purchase. Profits from the JPEG Trash Bin are divided between the builders and the Hashes DAO as an incentive alignment mechanism to promote further development and promotion.
 
+Those interested in a more thorough analysis of what the JPEG Trash Bin is, and how to use it in a trust-minimised manner, are encouraged to consult these two ([here](https://jpegtrashbin.medium.com/what-is-this-fd027b649973) and [there](https://jpegtrashbin.medium.com/how-to-use-me-4c9eecee7e6)) outstanding articles by 0r.
+
 ![JPEG Trash Bin](./images/trashBin.png)
 
 ### 5. Developer Grants

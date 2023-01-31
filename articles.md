@@ -13,3 +13,5 @@ Articles written by DAO members that further explicate key features, functions, 
 - [Permutation Five](https://paragraph.xyz/@mathesondavid/hashesdao-permutation-five), by David Matheson.
 - [Permutation 5 - The Build](https://medium.com/@sydneyjason/permutation-5-the-build-e6f420102d09), by Sydney Jason.
 - [How To Run A Hashes DAO Permutation](https://medium.com/@sydneyjason/how-to-run-a-hashes-dao-permutation-2ecdb6def2a9), by Sydney Jason.
+- [What Is The JPEG Trash Bin?](https://jpegtrashbin.medium.com/what-is-this-fd027b649973), by 0r.
+- [How To Use The JPEG Trash Bin](https://jpegtrashbin.medium.com/how-to-use-me-4c9eecee7e6), by 0r.
