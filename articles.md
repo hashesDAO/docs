@@ -15,3 +15,4 @@ Articles written by DAO members that further explicate key features, functions, 
 - [How To Run A Hashes DAO Permutation](https://medium.com/@sydneyjason/how-to-run-a-hashes-dao-permutation-2ecdb6def2a9), by Sydney Jason.
 - [What Is The JPEG Trash Bin?](https://jpegtrashbin.medium.com/what-is-this-fd027b649973), by 0r.
 - [How To Use The JPEG Trash Bin](https://jpegtrashbin.medium.com/how-to-use-me-4c9eecee7e6), by 0r.
+- [A Trash Bin, for JPEGs](https://www.dmath.is/a-trash-bin-for-jpegs/), by David Matheson.
