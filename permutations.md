@@ -37,7 +37,7 @@ Permutation three introduced the first dynamic and reputation-based NFTs into th
 
 Behind the scenes of the Sigil Genesis collection are the Sigil API endpoints and the Sigil Management contract. It is the Sigil [API endpoints](https://www.api.thesigil.xyz/) that are used to retreive data concerning the relevant on-chain activities of Sigil Genesis owners. This API is available for use by developers and artists looking for insight or inspiration into the Hashes ecosystem. Finally, the Sigil Management contract introduces a novel eligibility criteria for the set of all Sigil NFTs. The Sigil Genesis collection is so named because it is the first of several Sigil collections managed by the Sigil Management contract. This management contract ensures that a standard Hashes NFT can only be used to mint a single Sigil NFT (whether this be from the Genesis collection or otherwise), whereas a DAO NFT can be used to mint from each Sigil collection.
 
-Artists interested in exploring these unique features are strongly encouraged to do so, and to reach out for more information on [Discord](https://discord.com/channels/895057713279676427/895391609586323457).
+Artists interested in exploring these unique features are strongly encouraged to do so, and to reach out for more information on [Discord](https://discord.com/channels/895057713279676427/895391609586323457). Additionaly, technical google documentation on the Sigils contract and user interface may also be accessed [here](https://docs.google.com/document/d/1PpLUNFTcuEHJ7fjs2USB0Vqy6YscwdbJuHAuAZV2uAw/edit#heading=h.10fq4g4zhh45) and [here](https://docs.google.com/document/d/1gts5Nrb47af8BWkTwYRfKy-Ygdxl6zJwnYFdsvxwpuo/edit) respectively.
 
 ![Sigil Genesis #0](./images/sigilgenesis.png)
 
@@ -61,7 +61,7 @@ When Permutation five was proposed several prior Permutations had already been i
 
 Approximately 50 ETH was allocated to incentivise developers and builders who could finish the Permuations that had already been initiated, as well as to further develop the Hashes DAO website and resources. The Permutation was highly successful, with core proposals of both Permuation three and four being completed as a result. Furthermore, Permutation five also funded the development of the Hashes DAO NFT [creation user interface](https://thehashes.xyz/collections/new), along with the DAO documentation you're reading right now! 
 
-Further detail regarding Permutation five can be found in this retrospective [article](https://medium.com/@sydneyjason/permutation-5-the-build-e6f420102d09) by Sydney Jason.
+Further detail regarding Permutation five can be found in this retrospective [article](https://medium.com/@sydneyjason/permutation-5-the-build-e6f420102d09) by Sydney Jason. Finally, technical google documentation on the permutation may also be found [here](https://docs.google.com/document/d/17co-LIuL-DD-EDvwB_OKyjEuD3xomzEmovuG5pBfDYE/edit#) and [here](https://docs.google.com/document/d/146zPI1nBL89Ter01gKzLUvWUrS79zq_cUKw6ppEnIp8/edit#heading=h.inwldfy5ojrt).
 
 ### 6. Photography Grant
 
