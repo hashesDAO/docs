@@ -7,6 +7,10 @@ icon: lock
 
 A List of contract addresses and Etherscan links for all of the multi-signature wallets employed by the DAO across the relevant Permutations.
 
+### Permutation One: Harvest
+
+- Ethereum Mainnet: [0xf2928B732E533592501b0C73B4bDa8E8A5621604](https://etherscan.io/address/0xf2928B732E533592501b0C73B4bDa8E8A5621604)
+
 ### Permutation Three: Sigils
 
 - Ethereum Mainnet: [0x1B3Bd47db116672F5638F9D8Cfd2ae30A798330f](https://etherscan.io/address/0x1b3bd47db116672f5638f9d8cfd2ae30a798330f)
