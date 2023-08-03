@@ -57,7 +57,7 @@ An on-chain governance proposal is the formal process that allows Hashes DAO NFT
 17280 blocks (approximately 2.4 days).
 
 ### Where can I find the Harvest NFTs?
-Browse the full collection on [Opensea](https://opensea.io/hashesDAO).
+Browse the full collection on [Opensea](https://opensea.io/0xf2928B732E533592501b0C73B4bDa8E8A5621604).
 
 ### What is the Collection Factory?
 A Collection Factory is set of smart contracts that allows anyone to create a unique kind of ERC721 NFT collection, known as a Hashes collection. All Hashes collections are automatically integrated into the Hashes DAO ecosystem and website. 

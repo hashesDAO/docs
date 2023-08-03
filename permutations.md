@@ -15,7 +15,7 @@ Thus far, six Permutations have been initiated by the Hashes DAO, and they are a
 
 ##### Sponsor: [Meltem Demirors](https://twitter.com/Melt_Dem) (degenprincess)
 
-In the first Permutation the DAO allocated 225 ETH to buy a set of high-value, culturally signigicant, and prestigious generative art NFTs with the goal of establishing a notable collection for the DAO. The hope for this collection is that it will drive value to DAO members and create interest in the DAO among the wider gernerative art space. In the collection are distinguished pieces from artists such as Nick Kuder, Justin Aversano, Snowfro, Refik Anadol, DCA, and Botto, among many others. Browse the full collection on [Opensea](https://opensea.io/hashesDAO). The use of these harvested NFTs in the future includes the potential for fractional ownership for DAO members, museum exhibitions, and selling them for a profit to replenish DAO funds.
+In the first Permutation the DAO allocated 225 ETH to buy a set of high-value, culturally signigicant, and prestigious generative art NFTs with the goal of establishing a notable collection for the DAO. The hope for this collection is that it will drive value to DAO members and create interest in the DAO among the wider gernerative art space. In the collection are distinguished pieces from artists such as Nick Kuder, Justin Aversano, Snowfro, Refik Anadol, DCA, and Botto, among many others. Browse the full collection on [Opensea](https://opensea.io/0xf2928B732E533592501b0C73B4bDa8E8A5621604). The use of these harvested NFTs in the future includes the potential for fractional ownership for DAO members, museum exhibitions, and selling them for a profit to replenish DAO funds.
 
 ![Blossoming Cadaver - Botto](./images/blossoming.png)
 
@@ -70,3 +70,15 @@ Further detail regarding Permutation five can be found in this retrospective [ar
 For Permutation six, which is ongoing at the time of writing, 15 ETH has been allocated for artist [Carlo Van de Roer](http://www.vanderoer.com/new-page-1) to create generative photographic works using his patented PlateLight technology. Van de Roer is an artist who specializes in photography and film-making, and has already created works such as [The Portrait Machine Project](https://opensea.io/collection/tpmp), and [Modular One](https://opensea.io/collection/carlo-van-de-roer-modulator-one), among several others. Furthermore, Van de Roer's unique artistic approach has been employed in the Marvel movies "Thor: Ragnarok" and "Thor: Love and Thunder." 
 
 The proposed project involves using Hashes NFTs to allow collectors to generate and collect unique photographic images, and will include a website for minting the images and connecting them to smart contracts. The resulting body of work will consist of 50-100 unique 1/1's and will be available to purchase at an approximate price of 1.5 ETH. Several pieces will also be allocated to the DAO's harvest treasury, along with others raffled to DAO hashes holders.
+
+### 7. Print Editions
+
+##### Sponsor: [Kintsugi](https://twitter.com/KintsugiNFTs)
+
+Permutation seven introduces a limited run of physical prints of some of the artworks in the Hashes permutation one collection. The first drop features pieces by both Nick Kuder and Botto. The main goals of Print Editions are to promote the Hashes DAO, attract physical art collectors to the DAO, and to generate revenue for the DAO treasury. The DAO hopes to cover the costs of manufacture and offer signed prints to community members, via both a raffle and standard purchases. An initial budget of 15 ETH was required to start the project, which covered expenses, prints, frames, and a signing session for Nick Kuder's works. The allocation of prints prioritized DAO hash holders, followed by other standard hash holders in the community.
+
+![physical prints](./images/perm7pieces.png)
+
+Here is the [Print Editions website](https://www.printeditions.xyz/) and [Twitter account](https://twitter.com/PrintEditionNFT). In addition to this, more information regarding the proposal for this permutation can be found at the associated [snapshot vote](https://snapshot.org/#/thehashes.eth/proposal/0x4e010c0616502f9a5dae6b040fe0fcfe773f38c492458302f8a1d0ece2741ce5), which was used to successfully gauge support for the iniative.
+
+![framed prints](./images/perm7frame.png)

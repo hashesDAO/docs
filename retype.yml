@@ -11,5 +11,7 @@ links:
   link: https://www.thesigil.xyz/
 - text: Trash Bin
   link: https://www.jpegtrashbin.xyz/
+- text: Print Editions
+  link: https://www.printeditions.xyz/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
