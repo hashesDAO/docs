@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.1.0.744356415992">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.748537451037">
 
     <!-- See retype.com -->
-    <meta name="generator" content="Retype 3.1.0">
+    <meta name="generator" content="Retype 3.5.0">
 
     <!-- Primary Meta Tags -->
     <title>Governance</title>
@@ -31,11 +31,11 @@
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../images/hashes.png" rel="icon">
-    <link href="../resources/css/retype.css?v=3.1.0.744356415992" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.748537451037" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.1.0.744356415992" data-turbo-eval="false" defer></script>
-    <script data-cfasync="false" src="../resources/js/retype.js?v=3.1.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.1.0.744356415992" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.748537451037" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.748537451037" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -181,7 +181,6 @@
                             <div class="docs-markdown" id="docs-content">
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
-                
                                 <!-- Page content  -->
 <doc-anchor-target id="governance" class="break-words">
     <h1>
@@ -206,7 +205,7 @@
 <p>Following the formation of a plan, budget, and delegation of core contributors that will work on the Permuatation, two governance votes must be passed. The first is a <a href="https://snapshot.org/#/thehashes.eth">Snapshot</a> vote that acts to gauge the overal community sentiment and support for the Permutation. It is important to note that the results of the Snapshot vote are non-binding. A successful Snapshot vote does not imply that the subsequent on-chain governance vote will be similarly successful; however, an unsuccessful Snapshot vote strongly implies that the on-chain governance vote will fail, and as such the Permutation might need to be either reconsidered or abandoned.</p>
 <p>In the event that the Snapshot vote is successful an on-chain governance proposal may then be initiated. Technically, the governance vote is made by calling the <code v-pre>propose</code> function on Hashes DAO <a href="https://etherscan.io/address/0xbd3af18e0b7ebb30d49b253ab00788b92604552c">smart contract</a>, which is modelled after the Compound governance smart contract. The <code v-pre>propose</code> function allows for up to ten transactions to be queued and ultimately executed if the proposal is successful. For instance, a proposal may request moving treasury funds from the DAO to a multi-signature wallet for an artist grant, such as what occured under <a href="https://etherscan.io/tx/0x791b67cb01cb99c1033c6fb664572bb2d4cdb9bca27430332dfba88cfb423f50">Permutation six</a>.</p>
 <p>In order to make an on-chain governance proposal the proposing wallet must possess at least ten DAO Hashes NFTs. DAO members may then vote on the proposal by calling the <code v-pre>cast vote</code> function either in support of or against the proposal. Once a proposal has been initiated there exists a voting window of 17280 blocks (approximately 2.4 days) within which the proposal may be voted on. It should also be noted that a quorum of 40 votes must be attained in order for the proposal to succeed.</p>
-<p>Finally, after a successful on-chain vote has occured, two additional transactions must be made to first <code v-pre>queue</code> the proposed transactions, and to then subsequently <code v-pre>execute</code> them. Similarly to during the voting period, the proposed transactions will remain queued and be unable to be executed for 17280 blocks. This series of delays and voter thresholds exists so as to mitigate any risks of attack or exploitation. After the queued delay has passed anyone may execute the proposed transaction, and the on-chain governance process has been completed!</p>
+<p>Finally, after a successful on-chain vote has occured, two additional transactions must be made to first <code v-pre>queue</code> the proposed transactions, and to then subsequently <code v-pre>execute</code> them. Similarly to during the voting period, the proposed transactions will remain queued and be unable to be executed for 72 hours. This series of delays and voter thresholds exists so as to mitigate any risks of attack or exploitation. After the queued delay has passed anyone may execute the proposed transaction, and the on-chain governance process has been completed!</p>
 <doc-anchor-target id="to-summarise-the-on-chain-governance-process-is-as-follows">
     <h5>
         <doc-anchor-trigger class="header-anchor-trigger" to="#to-summarise-the-on-chain-governance-process-is-as-follows">#</doc-anchor-trigger>
@@ -217,7 +216,7 @@
 <li>An individual with 10 or more DAO NFTs calls the <code v-pre>propose</code> function on the Hashes DAO smart contract, proposing a series of on-chain transactions.</li>
 <li>Hashes DAO NFT holders vote by calling the <code v-pre>cast vote</code> function either in support or against the proposal.</li>
 <li>On-chain voting lasts for 17280 blocks (approximately 2.4 days), and a quorum of 40 votes is required to have the proposal be successful.</li>
-<li>Anyone may then <code v-pre>queue</code> the succesfully proposed transactions, and wait another 17280 blocks for the delay period to elapse.</li>
+<li>Anyone may then <code v-pre>queue</code> the succesfully proposed transactions, and wait another 72 hours for the delay period to elapse.</li>
 <li>Finally, anyone may then <code v-pre>execute</code> the succesfully proposed transactions with a final on-chain transaction.</li>
 </ul>
 <doc-anchor-target id="execution">
@@ -293,6 +292,6 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Governance", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Governance", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
