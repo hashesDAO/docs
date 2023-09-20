@@ -82,3 +82,13 @@ Permutation seven introduces a limited run of physical prints of some of the art
 Here is the [Print Editions website](https://www.printeditions.xyz/) and [Twitter account](https://twitter.com/PrintEditionNFT). In addition to this, more information regarding the proposal for this permutation can be found at the associated [snapshot vote](https://snapshot.org/#/thehashes.eth/proposal/0x4e010c0616502f9a5dae6b040fe0fcfe773f38c492458302f8a1d0ece2741ce5), which was used to successfully gauge support for the iniative.
 
 ![framed prints](./images/perm7frame.png)
+
+### 8. Strategic Advisory Board
+
+##### Sponsor: [SydneyJason](https://twitter.com/hall_jason)
+
+Permutation 8 introduces the Hashes DAO Strategic Advisory Board, with the purpose of shaping the short-term (6-12 months) and long-term (3+ years) strategy for the Hashes DAO. The primary objectives are to develop a comprehensive strategic plan for the DAO, and to plan for novel permutations. Additionally, secondary goals include testing a DAO Hash buyback program, and conducting legal diligence.
+
+Deliverables include regular community calls, the development of short-term and long-term plans, a curation thesis, development and platform theses, treasury management recommendations, and the launch of future permutations based on the outcomes of strategic planning. The board, comprised of reliable former contributors ([SydneyJason](https://twitter.com/hall_jason), [Quimp](https://twitter.com/bquimper), [Kintsugi](https://twitter.com/KintsugiNFTs), [Deebee](https://twitter.com/deebee), and [Cooki](https://twitter.com/0x_cooki)), will address key questions regarding the Hashes DAO mission, differentiation, resource allocation, and collection roadmap. Board members will also evaluate platform assets, budget management, and ongoing legal considerations.
+
+Additional information regarding the proposal for this permutation can be found at the associated ans successful [snapshot vote](https://snapshot.org/#/thehashes.eth/proposal/0x18e41b2435451a530c3e65ed9125dc08621e1d8faaec8c5df1c25e13c0662bab).

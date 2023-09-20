@@ -19,13 +19,13 @@ In the event that the Snapshot vote is successful an on-chain governance proposa
 
 In order to make an on-chain governance proposal the proposing wallet must possess at least ten DAO Hashes NFTs. DAO members may then vote on the proposal by calling the `cast vote` function either in support of or against the proposal. Once a proposal has been initiated there exists a voting window of 17280 blocks (approximately 2.4 days) within which the proposal may be voted on. It should also be noted that a quorum of 40 votes must be attained in order for the proposal to succeed. 
 
-Finally, after a successful on-chain vote has occured, two additional transactions must be made to first `queue` the proposed transactions, and to then subsequently `execute` them. Similarly to during the voting period, the proposed transactions will remain queued and be unable to be executed for 17280 blocks. This series of delays and voter thresholds exists so as to mitigate any risks of attack or exploitation. After the queued delay has passed anyone may execute the proposed transaction, and the on-chain governance process has been completed!
+Finally, after a successful on-chain vote has occured, two additional transactions must be made to first `queue` the proposed transactions, and to then subsequently `execute` them. Similarly to during the voting period, the proposed transactions will remain queued and be unable to be executed for 72 hours. This series of delays and voter thresholds exists so as to mitigate any risks of attack or exploitation. After the queued delay has passed anyone may execute the proposed transaction, and the on-chain governance process has been completed!
 
 ##### To summarise, the on-chain governance process is as follows:
 - An individual with 10 or more DAO NFTs calls the `propose` function on the Hashes DAO smart contract, proposing a series of on-chain transactions.
 - Hashes DAO NFT holders vote by calling the `cast vote` function either in support or against the proposal.
 - On-chain voting lasts for 17280 blocks (approximately 2.4 days), and a quorum of 40 votes is required to have the proposal be successful.
-- Anyone may then `queue` the succesfully proposed transactions, and wait another 17280 blocks for the delay period to elapse.
+- Anyone may then `queue` the succesfully proposed transactions, and wait another 72 hours for the delay period to elapse.
 - Finally, anyone may then `execute` the succesfully proposed transactions with a final on-chain transaction.
 
 ### Execution
